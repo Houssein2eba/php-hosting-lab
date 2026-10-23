@@ -103,4 +103,4 @@ A lab project demonstrating **multi-host PHP applications** running on **Windows
 
 ---
 
-Would you like me to also add a **“Quickstart with Docker Compose”** section so you can spin up the whole lab with one command? That would make the documentation even more developer-friendly.
+
